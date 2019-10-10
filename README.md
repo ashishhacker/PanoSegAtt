@@ -12,16 +12,22 @@ Download img_fc.tar, 2CFM_resnet_feats.zip.*, trained_models.tar, stuff_cfmresne
 
 Result of InstanceSegAtt and DetectionAtt:
 <img src="mask_vs_crop.jpg"/>
+
 Result of PanopticSegAtt and InstanceSegAtt:
 <img src="stuff_vs_mask.jpg"/>
+
 Result on Karpathy split:
 <img src="cocotestsplit.png"/>
+
 Result on COCO server:
 <img src="cocoserver.png"/>
+
 Histogram of CIDEr score:
 <img src="cider.png"/>
+
 Training curve:
 <img src="curve.png"/>
+
 Result on Dense split:
 <img src="dense.png"/>
 
