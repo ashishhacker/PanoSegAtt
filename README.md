@@ -5,7 +5,7 @@
 
 ## Download
 ```
-git clone https://github.com/jamiechoi1995/ACCESS.git && cd ACCESS.git
+git clone https://github.com/jamiechoi1995/PanoSegAtt.git && cd PanoSegAtt/
 git clone https://github.com/tylin/coco-caption.git && cd coco-caption && ./get_stanford_models.sh && cd ..
 ```
 Download img_fc.tar, 2CFM_resnet_feats.zip.*, trained_models.tar, stuff_cfmresnetfeat.zip.* and data.zip from https://pan.baidu.com/s/1kldKNemaXbVad_DrDXoG2g and extract them.
