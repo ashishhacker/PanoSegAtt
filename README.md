@@ -1,3 +1,5 @@
+## Code of [Panoptic Segmentation-Based Attention for Image Captioning](https://www.mdpi.com/2076-3417/10/1/391)
+
 ## Requirements
 - Python 2.7 (because there is no [coco-caption](https://github.com/tylin/coco-caption) version for python 3)
 - PyTorch 0.4.1 (along with torchvision)
